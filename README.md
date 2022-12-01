@@ -6,7 +6,7 @@ _______
 
 ### Descripción
 _______
-Este repositorio recopila las prácticas más importantes de la materia *Laboratorio de programación para ciberseguridad*.
+Este repositorio recopila las prácticas más importantes de la materia *Laboratorio de programación para ciberseguridad*. Todo contenido está localizado en la rama **Master**.
 
 ### Secciones
 _______
