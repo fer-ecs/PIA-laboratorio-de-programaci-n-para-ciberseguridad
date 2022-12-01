@@ -10,3 +10,5 @@ Este repositorio recopila las prácticas más importantes de la materia *Laborat
 
 ### Secciones
 _______
+1. [Manejo de APIs](https://github.com/paul4267419x/PIA-laboratorio-de-programaci-n-para-ciberseguridad/tree/master/Manejo%20de%20APIs)
+2. 
