@@ -1,2 +1,12 @@
 # PIA-laboratorio-de-programaci-n-para-ciberseguridad
-Repositorio que recopila las prácticas más destacadas realizadas en el 3er semestre de LSTI.
+### Datos
+_______
+Nombre: Fermín Isaí Estrada Vera
+Matrícula: 2006470
+
+### Descripción
+_______
+Este repositorio recopila las prácticas más importantes de la materia *Laboratorio de programación para ciberseguridad*.
+
+### Secciones
+_______
