@@ -1,8 +1,8 @@
 # PIA-laboratorio-de-programaci-n-para-ciberseguridad
 ### Datos
 _______
-Nombre: Fermín Isaí Estrada Vera
-Matrícula: 2006470
+- Nombre: Fermín Isaí Estrada Vera
+- Matrícula: 2006470
 
 ### Descripción
 _______
